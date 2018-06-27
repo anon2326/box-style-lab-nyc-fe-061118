@@ -43,7 +43,6 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
-  box-sizing:border-box;
 }
 
 .small {
@@ -60,4 +59,5 @@ h4 {
 }
 img{
   border: 1px solid black;
+  box-sizing: border-box;
 }
